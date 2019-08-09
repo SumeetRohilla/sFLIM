@@ -1,5 +1,5 @@
 # sFLIM
-A MATLAB library to analyze multi-channel spectrally-resolved Fluorescence Lifetime Imaging Microscopy data by Pattern-Matching algorithm based on linear-unmixing method
+A MATLAB library to analyze multi-channel spectrally-resolved Fluorescence Lifetime Imaging Microscopy (sFLIM) data by Pattern-Matching algorithm based on linear-unmixing method
 
 This software has been developed in the scope of a Ph.D. dissertation of Sumeet Rohilla during the "BitMAP" project, which was funded from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 675332.
 
