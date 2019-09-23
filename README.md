@@ -7,5 +7,7 @@ Major contributors to the software ( in order of amount of contributions made)
 - [Dr. Ingo Grgor](https://www.uni-goettingen.de/de/dr.+ingo+gregor/513986.html)
 - Sumeet Rohilla
 
+Download an exemplary raw dataset from this link: [Triple Labelled Cell sample](https://www.picoquant.com/dl_software/sFLIM/sFLIM_data.zip)
+
 ## License
 [MIT License](http://opensource.org/licenses/MIT) - see the [LICENSE]
